@@ -121,8 +121,8 @@ venueFeatures: ["Il Politecnico di Bari è un’Università pubblica italiana na
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+# tweetsFeedTitle: "What's Up?"
+twitterHashTag: "dfba17"
 #twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
