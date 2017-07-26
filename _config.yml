@@ -11,7 +11,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Bari 2017"
-email: "mikelantonio.trizio@gmail.com"
+# email: "mikelantonio.trizio@gmail.com"
 description: "GDG DevFest Bari 2017"
 baseurl: "/devfest2017-website"
 url: "https://gdgbari.github.io"
@@ -24,7 +24,7 @@ siteVerification: "TODO: ANALYTICS VERIFICATION ID HERE"
 organizerName: "GDG Bari"
 organizerAlternateName: "Google Developer Group Bari"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "mikelantonio.trizio@gmail.com"
+# organizerEmail: "mikelantonio.trizio@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgbari.org"
 
@@ -49,14 +49,13 @@ navigationLinks:
  # TODO: Add Speakers
  # - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
-
  - {permalink: "/logistics/", text: "Logistica"}
  # TODO: Add Hackathon
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Call for paper"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://bit.ly/dfua-c4p", text: "Call for paper"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -112,7 +111,7 @@ mapCenterCoordinates: "41.109048, 16.8783749"
 mapMobileCenterCoordinates: "41.109048, 16.8783749"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Dove"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -225,7 +224,7 @@ logisticsMapAutoDirections: true
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Bari"
+directionDetailsTitle: "Politecnico di Bari"
 directionDetailsCards:
  - {title: "Dall'aeroporto", information: 'Dall&#39;aeroporto di Bari - Palese è possibile raggiungere la stazione centrale sfruttando la metro o con la linea urbana 16.'}
  - {title: "Mezzi pubblici", information: 'Da piazza A. Moro si possono prendere le linee numero 21 o 22. La prima, passando per via P. Petroni, via Carulli, piazza Luigi di Savoia, via Capruzzi, via Lattanzio, via M. Cristina di Savoia, giunge in via Re David dove è possibile scendere in prossimità dell&#39;ingresso B del Campus. La seconda, attraversando via P. Petroni, via Carulli, piazza Luigi di Savoia, via Capruzzi, via Lattanzio e via Postiglione consente di arrivare su via Amendola in prossimità delle entrate C e D del campus.'}

@@ -1,10 +1,11 @@
 -
   group: "Main organizer"
   elements:
-    - {name: "GDG Bari", description: "GDG Bari", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Bari", description: "GDG Bari", link: "https://www.facebook.com/GDGBari", imageUrl: "gdg-bari.svg"}
 
 -
   group: "Co-organizers"
   elements:
-    - {name: "auLAB", description: "GDG Bari", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
-    - {name: "Alumni Mathematica", description: "GDG Bari", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "auLAB", description: "auLAB", link: "http://www.aulab.it/", imageUrl: "aulab.jpg"}
+    - {name: "Alumni Mathematica", description: "Alumni Mathematica", link: "http://alumnimathematica.org/", imageUrl: "alumni.jpg"}
+    - {name: "Club degli Sviluppatori", description: "Club degli Sviluppatori", link: "https://www.facebook.com/groups/cdspuglia/", imageUrl: "club.png"}

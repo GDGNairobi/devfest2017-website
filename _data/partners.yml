@@ -1,8 +1,8 @@
 -
   group: "Sponsors"
   elements:
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
-    - {name: "GDG Bari", description: "GDG Bari", link: "https://www.facebook.com/GDGBari", imageUrl: "gdg-lviv.svg"}
+    - {name: "Google", description: "Google", link: "https://developers.google.com/", imageUrl: "google.svg"}
+#    - {name: "GDG Bari", description: "GDG Bari", link: "https://www.facebook.com/GDGBari", imageUrl: "gdg-lviv.svg"}
 #-
 #  group: "With support of"
 #  elements:
