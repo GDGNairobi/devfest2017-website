@@ -2,6 +2,7 @@
   group: "Main organizer"
   elements:
     - {name: "GDG Bari", description: "GDG Bari", link: "https://www.facebook.com/GDGBari", imageUrl: "gdg-bari.svg"}
+    - {name: "Women Techmakers", description: "Women Techmakers", link: "https://www.womentechmakers.com/", imageUrl: "wtm.png"}
 
 -
   group: "Co-organizers"

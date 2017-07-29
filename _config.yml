@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
+c4pUrl: "https://goo.gl/forms/FcICiuS8RFz63pJm2"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -53,9 +53,9 @@ navigationLinks:
  # TODO: Add Hackathon
  # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Call for paper"}
+ - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Call for paper"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Call for paper"}
+ - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Call for paper"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -64,7 +64,7 @@ eventDate: "6-7-8 ottobre 2017"
 typeoutTextValues: '"", "Bari", "Season"'
 typeoutFallback: "Bari"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Diventa uno speaker"}
+ - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Diventa uno speaker"}
  - {link: "https://www.facebook.com/GDGBari/", text: "Seguici su Facebook"}
  # TODO: ADD AFTER CALL FOR PAPER
  # - {permalink: "/#tickets", text: "Buy tickets"}
