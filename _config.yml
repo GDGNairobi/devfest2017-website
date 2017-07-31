@@ -16,9 +16,9 @@ description: "GDG DevFest Bari 2017"
 baseurl: "/devfest2017-website"
 url: "https://gdgbari.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "TODO: ID HERE"
-googleAnalyticsSiteUrl: "gdgbari.github.io"
-siteVerification: "TODO: ANALYTICS VERIFICATION ID HERE"
+googleAnalyticsTrackingId: "UA-55641503-2"
+googleAnalyticsSiteUrl: "gdgbari.org"
+# siteVerification: "TODO: ANALYTICS VERIFICATION ID HERE"
 
 # Organizer Info
 organizerName: "GDG Bari"
