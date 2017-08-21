@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Bari 2017"
 # email: "mikelantonio.trizio@gmail.com"
 description: "GDG DevFest Bari 2017"
-baseurl: "/"
+baseurl: ""
 url: "https://gdgbari.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-55641503-2"
