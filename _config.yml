@@ -44,16 +44,16 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Programma"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistica"}
  # TODO: Add Hackathon
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "https://hack.developers.italia.it/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Call for paper"}
+ - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
 rightNavigationButtons:
- - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Call for paper"}
+ - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ eventDate: "6-7-8 ottobre 2017"
 typeoutTextValues: '"", "Bari", "Season"'
 typeoutFallback: "Bari"
 heroButtons:
- - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Diventa uno speaker"}
+ - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
  - {link: "https://www.facebook.com/GDGBari/", text: "Seguici su Facebook"}
  # TODO: ADD AFTER CALL FOR PAPER
  # - {permalink: "/#tickets", text: "Buy tickets"}
@@ -88,7 +88,7 @@ latestNewsTitle: "Ultime news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 1
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 

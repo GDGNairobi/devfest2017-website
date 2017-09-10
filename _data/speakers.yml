@@ -6,7 +6,7 @@
   #title: "Developer Relations Program Manager"
   bio: "Ingegnere & EntrepreNerd. Ha conseguito la laurea in Ingegneria informatica con tesi in Artificial Intelligence presso il Politecnico di Bari nel 2007. Ha lavorato per diversi anni in aziende ICT del sud d'Italia come sviluppatore. Ha partecipato alla startup school di Mind The Bridge a San Francisco nel 2011. Tornato in Italia avvia la sua prima azienda. E' il fondatore di GDG Bari ed è l'attuale leader della community. Ora è il CTO di Wideverse, spin-off del Politecnica di Bari che lavora su tecnologie di VR e AR. Sviluppa applicazioni Android e Java è la sua seconda lingua."
   thumbnailUrl: mike-trizio.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/michelantoniotrizio/"}
     - {name: "twitter", link: "https://twitter.com/mik3lantoni0"}
@@ -20,7 +20,7 @@
   bio: "Mi occupo di coordinamento e sviluppo di applicazioni web, mobile e gaming. Sono stato docente di alcuni corsi orientati allo sviluppo di videogiochi e di applicazioni mobile, speaker di diversi talk, membro attivo di una comunità di informatici, il Club degli Sviluppatori, che organizza mensilmente incontri allo scopo di promuovere la condivisione della conoscenza.
 Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack developer(Laravel, React, Fuse, ecc.) e nel settore storytelling  per Swipe Story SRL come Unity Developer."
   thumbnailUrl: giuseppe-toto.JPG
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/giuseppe-toto-83888b33/?ppe=1"}
     - {name: "facebook", link: "https://www.facebook.com/giuseppe.toto007"}
@@ -32,7 +32,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   #title: ""
   bio: "Android Developer @ Enjore, Member & Speaker @ GDG Bari and addicted to Google Technologies. Boris has a background in backend and web development and Android is his first thought in the moring. Loves OSS."
   thumbnailUrl: boris-damato.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/borisdam/"}
     - {name: "twitter", link: "https://twitter.com/borisdamato"}
@@ -45,7 +45,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   #title: "Developer Relations Program Manager"
   bio: "Ingegnere Informatico, con background accademico presso il Politecnico di Bari. Lavoro come Sviluppatore Software in ambito IT. Faccio parte del GDG dal 2015, dove alle devfest precedenti ho tenuto nel 2015 un talk sulla GCP, in particolare su come creare una Java Application con GAE, e nel 2016 su come usare la GCP per elaborare il Linguaggio Naturale. Sono appassionato di tecnologie Google, dello stack tecnologico del Semantic Web e dei Linked Open Data, di BigData e AI. Seguo con interesse tutte le innovazioni tecnologiche e sociali, anche quelle legate al mondo Start Up."
   thumbnailUrl: francesco-marchitelli.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://it.linkedin.com/in/francescomarchitelli"}
     - {name: "twitter", link: "https://twitter.com/marcyborg"}
@@ -58,7 +58,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   #title: "Developer Relations Program Manager"
   bio: "Founder & Marketing Leader, laureato in Informatica all’Università di Bari, ha maturato esperienza come sviluppatore e consulente Ict per diverse aziende informatiche. In Nextome con Vincenzo e Giangiuseppe deposita il primo brevetto. Attualmente ricopre il ruolo di direttore marketing e nel 2015 considerati gli importanti risultati raggiunti con Nextome, è stato premiato dalla Commissione Europea come il più giovane Imprenditore del Web."
   thumbnailUrl: domenico-colucci.png
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://it.linkedin.com/in/francescomarchitelli"}
     - {name: "twitter", link: "https://twitter.com/marcyborg"}
@@ -74,7 +74,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   Lavoro come Ingegnere del Software presso una azienda che si occupa di R&D in ambito industriale.
   Sono appassionato di tecnologia, innovazione e ricerca in ambito di sicurezza informatica, open data, intelligenza artificiale e prototipazione IoT."
   thumbnailUrl: angelo-parchitelli.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/angeloparchitelli/"}
     - {name: "twitter", link: "https://twitter.com/angilopo"}
@@ -87,7 +87,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   #title: "Developer Relations Program Manager"
   bio: "Francesco, dopo aver superato con successo il test di Turing, si dedica prima agli studi in ambito informatico, successivamente nel 2013 diventa cofondatore di ApuliaSoft, una software house specializzata nella conduzione di progetti di sviluppo software attraverso processi agili, in particolare attraverso la metodologia Scrum. Nel 2016 ottiene la certificazione di 'Certified ScrumMaster®'. Appassionato di tecnologia, libri, fantascienza, videogiochi e birra."
   thumbnailUrl: francesco-pavone.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/francescomariapavone/"}
     - {name: "twitter", link: "https://twitter.com/FrancescoKujaku"}
@@ -99,7 +99,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   #title: "Developer Relations Program Manager"
   bio: "Dottore di ricerca in fisica teorica, attualmente ricercatore ICT in ENEA, con competenze nel campo delle progettazione informatica, dell'integrazione tra i sistemi ICT, dell'elearning e della formazione blended, del calcolo scientifico ad alte prestazioni, del cloud computing. Referente per il centro di calcolo HPC del centro di ricerche di Brindisi. Attualmente si occupa di informatica gestionale, gestione dei processi e dei dati aziendali e lavoro collaborativo. Appassionato di nuove tecnologie, costantemente alla ricerca di risposte semplici a problemi complessi."
   thumbnailUrl: angelo-mariano.jpg
-  rockstar: false
+  rockstar: true
 -
   id: 8
   name: "Andrea"
@@ -110,7 +110,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
 Grande appassionato di sistemi Linux, si occupa della gestione e delle architetture server, automazione di task IT e politiche di deployment.
 Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche di scalabilità orizzontale :)"
   thumbnailUrl: andrea-rabbaglietti.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/andrearabbaglietti/"}
     - {name: "twitter", link: "https://twitter.com/pyRabbaglietti"}
@@ -127,7 +127,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   IBM Italy
   Johnson Controls (JCI) USA"
   thumbnailUrl: vincenzo-dentamaro.png
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/vincenzodentamaro/"}
     - {name: "twitter", link: "https://twitter.com/vincenzoden"}
@@ -140,7 +140,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   #title: "Developer Relations Program Manager"
   bio: "Software developer per ApuliaSoft con esperienza in sviluppo web e mobile. Ho lavorato con diversi linguaggi di programmazione (C,C++, PHP, C#, Javascript), abbracciando metodologie di lavoro agili. Membro promotore del Club degli Sviluppatori sin dal 2013. "
   thumbnailUrl: valerio-como.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/valeriocomo/"}
     - {name: "twitter", link: "https://twitter.com/valeriocomo"}
@@ -153,7 +153,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   #title: "Developer Relations Program Manager"
   bio: "Nato a Canosa nel 1997, frequento il primo anno di Ingegneria informatica e dell'automazione al Politecnico di Bari. Sono membro del GDG Bari, grande appassionato di Linux e di tutte le sue applicazioni dalle lavatrici smart ai server per le AI."
   thumbnailUrl: andrea-lops.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/andrea-lops-532236135"}
     - {name: "twitter", link: "https://twitter.com/lopsandrea"}
@@ -169,7 +169,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   A partire da giugno 2015, ha co-fondando e Glucosio, divenuta poco tempo dopo una Fondazione con l'obiettivo di aiutare i diabetici nel mondo con l'open source.
     Attualmente lavora per Nextome, un'azienda che fornisce un servizio di navigazione e posizionamento indoor sfruttando Beacons Bluetooth."
   thumbnailUrl: paolo-rotolo.jpeg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/paolorotolo/"}
     - {name: "twitter", link: "https://twitter.com/PaoloRotolo"}
@@ -182,7 +182,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   #title: "Developer Relations Program Manager"
   bio: "Developer Senior at @Spindox by day. Superhero and time traveller wannabe; cinephile; communities addicted by night."
   thumbnailUrl: michel-murabito.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/michel-murabito-b5568845/"}
     - {name: "twitter", link: "https://twitter.com/michelmurabito"}
@@ -195,7 +195,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   #title: "Developer Relations Program Manager"
   bio: "Giuseppe è un imprenditore pugliese con un amore incondizionato per la tecnologia. Fin da piccolo giocava a scrivere codice e nel 2006 ha avuto l'occasione di entrare nella squadra italiana delle 'International Olympiad in Informatics'. Da quel momento in poi non ha più lasciato il mondo del software: prima gli studi, poi freelancer ed oggi imprenditore. Appassionato di ottimizzazione, web e compilatori. Non si lascia sfuggire le occasioni di cucinare il pranzo per il suo team."
   thumbnailUrl: giuseppe-santoro.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/giuseppesantoroapuliasoft/"}
     - {name: "facebook", link: "https://www.facebook.com/giuseppesantoroitalia"}
