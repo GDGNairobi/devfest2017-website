@@ -44,14 +44,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  # - {permalink: "/blog/", text: "Blog"}
- # TODO: Add Speakers
- # - {permalink: "/schedule/", text: "Schedule"}
- # TODO: Add Speakers
- # - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistica"}
  # TODO: Add Hackathon
- # - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://goo.gl/forms/FcICiuS8RFz63pJm2", text: "Call for paper"}
 rightNavigationButtons:
