@@ -10,8 +10,8 @@
   # video: ""
 -
   id: 002
-  title: "Fuse:  un framework di nuova generazione per sviluppare app native IOS e ANDROID"
-  description: ""Oggigiorno ci sono molti framework per la creazione di app mobile native cross-platform e allora perché un nuovo framework?  Fuse porta con se nuovi concetti tecnici e nuovi flussi di lavoro al fine di garantire una visualizzazione regolare di 60 fotogrammi al secondo e migliorare l’efficienza di sviluppo e la collaborazione tra designer e developer. Obiettivo del mio talk è darvi una visione personale di Fuse  raccontandovi la mia esperienza di lavoro, quali sono le sue novità e di come si differisce rispetto a framework competitor:  React Native, NativeScript, Ionic, Xamarin, ecc.""
+  title: "Fuse: un framework di nuova generazione per sviluppare app native IOS e ANDROID"
+  description: "Oggigiorno ci sono molti framework per la creazione di app mobile native cross-platform e allora perché un nuovo framework?  Fuse porta con se nuovi concetti tecnici e nuovi flussi di lavoro al fine di garantire una visualizzazione regolare di 60 fotogrammi al secondo e migliorare l’efficienza di sviluppo e la collaborazione tra designer e developer. Obiettivo del mio talk è darvi una visione personale di Fuse  raccontandovi la mia esperienza di lavoro, quali sono le sue novità e di come si differisce rispetto a framework competitor:  React Native, NativeScript, Ionic, Xamarin, ecc."
   # subtype: keynote
   speakers: [1]
   language: it
@@ -23,7 +23,7 @@
   title: "Kotlin for Android Development"
   description: "For the first time in Android's history, Google introduced a new official language to the Android development ecosystem: Kotlin. It was the most acclaimed announcement at the Google I/O 2017 (I was there!).
 Created in 2011 by JetBrains, Kotlin gained more popularity year over year thanks to it being 100% interoperable with the JVM.
-Many "bleeding-edge" Android developers already started using Kotlin in production but now that it's officially supported, Kotlin is popularity is sky-rocketing bringing fresh air to the Android ecosystem.
+Many 'bleeding-edge' Android developers already started using Kotlin in production but now that it's officially supported, Kotlin is popularity is sky-rocketing bringing fresh air to the Android ecosystem.
 Join me and let's discover Kotlin and its beauties!"
   # subtype: keynote
   speakers: [2]
@@ -54,8 +54,8 @@ Join me and let's discover Kotlin and its beauties!"
 -
   id: 006
   title: "Dall'Internet of Things verso l'Internet of Everything: come collegare i dati per produrre nuova conoscenza"
-  description: "L'Internet delle cose negli ultimi anni ha rappresentato il trampolino di lancio per una nuova forma di pensare agli oggetti e alle connessioni tra e con essi. Nella precedente DevFest sono stati presentati una serie di strumenti che permettono la prototipazione rapida attraverso kit di sviluppo per maker ("L'ecosistema Google a supporto dei progetti IoT: dalla prototipazione ai dati in Cloud", https://www.slideshare.net/AngeloParchitelli/lecosistema-google-a-supporto-dei-progetti-iot-dalla-prototipazione-ai-dati-in-cloud).
-Il talk fornirà, attraverso una serie di esempi applicativi, le nozioni utili al controllo del flusso dati proveniente da dispositivi IoT dislocati in postazioni diverse, visualizzazione dei dati e nozioni sui processi decisionali "autonomi" basati su regole per eventuali processi di attuazione."
+  description: "L'Internet delle cose negli ultimi anni ha rappresentato il trampolino di lancio per una nuova forma di pensare agli oggetti e alle connessioni tra e con essi. Nella precedente DevFest sono stati presentati una serie di strumenti che permettono la prototipazione rapida attraverso kit di sviluppo per maker ('L'ecosistema Google a supporto dei progetti IoT: dalla prototipazione ai dati in Cloud', https://www.slideshare.net/AngeloParchitelli/lecosistema-google-a-supporto-dei-progetti-iot-dalla-prototipazione-ai-dati-in-cloud).
+Il talk fornirà, attraverso una serie di esempi applicativi, le nozioni utili al controllo del flusso dati proveniente da dispositivi IoT dislocati in postazioni diverse, visualizzazione dei dati e nozioni sui processi decisionali 'autonomi' basati su regole per eventuali processi di attuazione."
   # subtype: keynote
   speakers: [5]
   language: it
@@ -96,7 +96,7 @@ Questo talk tratterà le soluzioni per costruire un'architettura orientata ai se
 -
   id: 010
   title: "Introduzione alle Self Driving Cars"
-  description: "Il talk tratterà in maniera molto sommaria e senza scendere nei dettagli (a causa della scarsità di tempo) delle metodologie utilizzate nelle self driving cars moderne spiegando le differenze tra quella che viene denominata "robotica probabilistica" e l'approccio "deep learning e deep behavioural cloning" nelle self driving car. Verranno accennati metodi come localizzazione GPS e Indoor, filtri di kalman e particle, ricerca del percorso più rapido e deep learning.
+  description: "Il talk tratterà in maniera molto sommaria e senza scendere nei dettagli (a causa della scarsità di tempo) delle metodologie utilizzate nelle self driving cars moderne spiegando le differenze tra quella che viene denominata 'robotica probabilistica' e l'approccio 'deep learning e deep behavioural cloning' nelle self driving car. Verranno accennati metodi come localizzazione GPS e Indoor, filtri di kalman e particle, ricerca del percorso più rapido e deep learning.
 Il corso è discorsivo e prevede interazione con gli utenti."
   # subtype: keynote
   speakers: [9]
@@ -154,6 +154,49 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   description: "Perché JavaScript, a differenza di molti altri linguaggi, fa largo uso di funzioni asincrone? È un vantaggio o uno svantaggio? Perché Node.JS ha rapidamente attratto l'attenzione di molte grosse aziende? Risponderemo a queste domande ripercorrendo i momenti più importati nell'evoluzione di JavaScript, focalizzandoci sul modo in cui questo linguaggio è in grado di gestire le chiamate asincrone."
   # subtype: keynote
   speakers: [14]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 016
+  title: "Break"
+  # subtype: keynote
+  language: it
+  #presentation: ""
+  # video: ""
+-
+  id: 017
+  title: "Dora Ruggero"
+  description: ""
+  # subtype: keynote
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 018
+  title: "Alfredo Morrisi"
+  description: ""
+  # subtype: keynote
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 019
+  title: "Sara di Bartoloomeo"
+  description: ""
+  # subtype: keynote
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 020
+  title: "Roberto Orgiu"
+  description: ""
+  # subtype: keynote
   language: it
   complexity: "Intermediate"
   #presentation: ""
