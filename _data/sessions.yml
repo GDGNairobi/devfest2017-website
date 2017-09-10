@@ -1,59 +1,160 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
-  title: "Material design: Visual style and imagery"
-  description: "This session will reveal the invisible structures behind the material design system. Designers will show how to use the new color systems, typographic strategies, and the underlying grids that hold it together. They will show how imagery and the new framework material rendering can make apps more interesting and communicate more quickly."
-  subtype: workshop
-  speakers: [3, 6]
-  language: en
+  title: "Let's cook! Make your Android app stronger with new Google architecture components"
+  description: "La scrittura di applicazioni Android robuste può essere difficoltosa, tra problemi complessi legati al ciclo di vita dell'app, reti mobili inaffidabili e funzionalità di dispositivo limitate. Errori in questi ambiti conducono a perdite di memoria, blocchi di applicazioni, batterie scariche e utenti infelici. Durante l'ultimo I / O, Google ha introdotto 3 nuove librerie per android per consentire agli sviluppatori di creare applicazioni più robuste. Questa sessione coprirà un nuovo approccio alla buona architettura di applicazioni Android, inclusa una panoramica di funzionalità che renderà questi problemi fondamentalmente più facili da risolvere"
+  # subtype: keynote
+  speakers: [0]
+  language: it
   complexity: "Intermediate"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  #presentation: ""
+  # video: ""
 -
   id: 002
-  title: "Building Cloud-powered wearable Apps"
-  description: "I will speak and show how to:<br>- Respond to touch events in your views with touch feedback animations.<br>- Hide and show views with reveal effect animations.<br>- Switch between activities with custom activity transition animations.<br>- Create more natural animations with curved motion.<br>- Animate changes in one or more view properties with view state change animations.<br>- Create icon morphing transition"
-  subtype: presentation
-  speakers: [4, 5]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Fuse:  un framework di nuova generazione per sviluppare app native IOS e ANDROID"
+  description: ""Oggigiorno ci sono molti framework per la creazione di app mobile native cross-platform e allora perché un nuovo framework?  Fuse porta con se nuovi concetti tecnici e nuovi flussi di lavoro al fine di garantire una visualizzazione regolare di 60 fotogrammi al secondo e migliorare l’efficienza di sviluppo e la collaborazione tra designer e developer. Obiettivo del mio talk è darvi una visione personale di Fuse  raccontandovi la mia esperienza di lavoro, quali sono le sue novità e di come si differisce rispetto a framework competitor:  React Native, NativeScript, Ionic, Xamarin, ecc.""
+  # subtype: keynote
+  speakers: [1]
+  language: it
+  complexity: "Beginner"
+  #presentation: ""
+  # video: ""
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
-  subtype: presentation
-  speakers: [4]
-  language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  title: "Kotlin for Android Development"
+  description: "For the first time in Android's history, Google introduced a new official language to the Android development ecosystem: Kotlin. It was the most acclaimed announcement at the Google I/O 2017 (I was there!).
+Created in 2011 by JetBrains, Kotlin gained more popularity year over year thanks to it being 100% interoperable with the JVM.
+Many "bleeding-edge" Android developers already started using Kotlin in production but now that it's officially supported, Kotlin is popularity is sky-rocketing bringing fresh air to the Android ecosystem.
+Join me and let's discover Kotlin and its beauties!"
+  # subtype: keynote
+  speakers: [2]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
-  speakers: [6]
-  language: uk
-  complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  title: "Continuos Integration con Jenkins e Java EE"
+  description: "In questo talk analizzeremo come usare Jenkins come tool per effettuare Continuos Integration and Continuos Development in un'architettura Java EE, utilizzando Wildfly come Application Server e Maven come gestore delle dipendenze e librerie, sfruttando il wildfly-maven-plugin."
+  # subtype: keynote
+  speakers: [3]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
-  subtype: keynote
+  title: "NexToMe - Find your way indoors"
+  description: "Il talk riguarderà panoramica sulle tecnologie di indoor positioning & navigation, con preciso fosuc sulla tecnologie sviluppate da Nextome. Ampio spazio alla descrizione del SDK Android e linee guida per l’integrazione in app di terze parti. Seguirà breve dimostrazione del funzionamento con installazione di una piccola demo."
+  # subtype: keynote
+  speakers: [4, 9]
+  language: it
+  complexity: "Beginner"
+  #presentation: ""
+  # video: ""
+-
+  id: 006
+  title: "Dall'Internet of Things verso l'Internet of Everything: come collegare i dati per produrre nuova conoscenza"
+  description: "L'Internet delle cose negli ultimi anni ha rappresentato il trampolino di lancio per una nuova forma di pensare agli oggetti e alle connessioni tra e con essi. Nella precedente DevFest sono stati presentati una serie di strumenti che permettono la prototipazione rapida attraverso kit di sviluppo per maker ("L'ecosistema Google a supporto dei progetti IoT: dalla prototipazione ai dati in Cloud", https://www.slideshare.net/AngeloParchitelli/lecosistema-google-a-supporto-dei-progetti-iot-dalla-prototipazione-ai-dati-in-cloud).
+Il talk fornirà, attraverso una serie di esempi applicativi, le nozioni utili al controllo del flusso dati proveniente da dispositivi IoT dislocati in postazioni diverse, visualizzazione dei dati e nozioni sui processi decisionali "autonomi" basati su regole per eventuali processi di attuazione."
+  # subtype: keynote
+  speakers: [5]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 007
+  title: "Scrum by the book"
+  description: "Oggi si sente parlare molto di sviluppo agile e di Scrum. Molti affermano di usare Scrum nei loro processi di sviluppo. Ma è davvero così? Quanto viene applicato in maniera rigorosa? In questa presentazione esploreremo la metodologia Scrum in tutti i suoi aspetti. Illustrerò nel dettaglio i concetti, gli attori e i processi coinvolti, evidenziando gli errori più comuni che rischiano di minarne l'efficacia."
+  # subtype: keynote
+  speakers: [6]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 008
+  title: "Big Data and Machine Learning"
+  description: "L’esplosione e la rapida diffusione di dati digitali legati a tutte le attività umane pone interessanti questioni in merito alle modalità di gestione e di analisi di enormi moli di dati. Si presenteranno alcune delle tecniche più recenti per la trattazione automatizzata dei big data, alcuni aspetti relativi a come si può fare in modo che le macchine estraggano conoscenza a partire dai dati, e si analizzeranno le ricadute che questi nuovi approcci hanno sul “fare” scienza/ricerca."
+  # subtype: keynote
   speakers: [7]
-  language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  language: it
+  complexity: "Beginner"
+  #presentation: ""
+  # video: ""
+-
+  id: 009
+  title: "Modern Messaging for Distributed Systems"
+  description: "Il message-passing per più di dieci anni è stata la soluzione di riferimento per affrontare le sfide e l'implementazione di un sistema distribuito: problemi di rete, forte accoppiamento fra nodi, eterogeneità delle applicazioni (diversi linguaggi di programmazione).
+Questo talk tratterà le soluzioni per costruire un'architettura orientata ai servizi (SOA) ed effettuare message-passing in maniera performante ed affidabile; ripercorreremo insieme i concetti e le tecnologie principali che sono alla base dei sistemi distribuiti."
+  # subtype: keynote
+  speakers: [8]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 010
+  title: "Introduzione alle Self Driving Cars"
+  description: "Il talk tratterà in maniera molto sommaria e senza scendere nei dettagli (a causa della scarsità di tempo) delle metodologie utilizzate nelle self driving cars moderne spiegando le differenze tra quella che viene denominata "robotica probabilistica" e l'approccio "deep learning e deep behavioural cloning" nelle self driving car. Verranno accennati metodi come localizzazione GPS e Indoor, filtri di kalman e particle, ricerca del percorso più rapido e deep learning.
+Il corso è discorsivo e prevede interazione con gli utenti."
+  # subtype: keynote
+  speakers: [9]
+  language: it
+  complexity: "Beginner"
+  #presentation: ""
+  # video: ""
+-
+  id: 011
+  title: "Web Assembly"
+  description: "Web Assembly è un bytecode di basso livello ideato per lo sviluppo web. Il suo scopo iniziale era quello di supportare la compilazione di linguaggi come C, C++ e Rust. Durante il talk verranno esaminate le caratteristiche principali di questa nuova tecnologia."
+  # subtype: keynote
+  speakers: [10]
+  language: it
+  complexity: "Beginner"
+  #presentation: ""
+  # video: ""
+-
+  id: 012
+  title: "Google Home home made"
+  description: "Con la presentazione nel marzo 2016 di Google Home, Google si tuffa ufficialmente nel mondo del IoT e con Assistant SDK da la possibilità a tutti, sviluppatori e non, di costruirsi un proprio Google Home fatto in casa. Il talk tratterà in modo semplice e accessibile a tutti l'installazione e il settaggio di Assistant SDK su Raspbarry Pi 3. Tempo a disposizione permettendo il talk scenderà più nei dettagli con dimostrazione di applicativi per Assistant in python."
+  # subtype: keynote
+  speakers: [11]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 013
+  title: "Test and automate Android Development with CI's magic"
+  description: "Specialmente quando lavorano con applicazioni complesse, gli sviluppatori hanno bisogno di un modo di testare i nuovi cambiamenti, ogni volta che scrivono nuovo codice per minimizzare gli errori in produzione.
+  La Continuous Integration può risolvere questo problema e inoltre aiutare gli sviluppatori in altri compiti noiosi come aggiornare le traduzioni e gli assets all'interno delle loro app.
+   In questo talk vedremo come usare i tools CI come Travis e altri framework di test come Espresso, che si integrano perfettamente con GitHub e che permettono di automatizzare il testing del codice, verificarne la qualità, gestire le traduzioni e molti altri aspetti dello sviluppo Android.
+   Venite a vedere con i vostri occhi la magia della Continuous Integration! ;)"
+  # subtype: keynote
+  speakers: [12]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 014
+  title: "Becomes a JavaScript Superhero Dev!"
+  description: "Negli ultimi anni JavaScript ha fatto enormi passi in avanti permettendo, ad esempio, lo sviluppo sia del Frontend che del Backend, questo rende indispensabile scrivere codice di qualità, performante e riutilizzabile in ogni situazione.
+ In questo talk parleremo delle principali novità introdotte dalle più recenti specifiche e di come utilizzare al meglio JavaScript per rendere il nostro codice compatto, performante e moderno."
+  # subtype: keynote
+  speakers: [13]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 015
+  title: "JavaScript: guida pratica per sopravvivere all'asincronia"
+  description: "Perché JavaScript, a differenza di molti altri linguaggi, fa largo uso di funzioni asincrone? È un vantaggio o uno svantaggio? Perché Node.JS ha rapidamente attratto l'attenzione di molte grosse aziende? Risponderemo a queste domande ripercorrendo i momenti più importati nell'evoluzione di JavaScript, focalizzandoci sul modo in cui questo linguaggio è in grado di gestire le chiamate asincrone."
+  # subtype: keynote
+  speakers: [14]
+  language: it
+  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
