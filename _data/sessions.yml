@@ -53,7 +53,7 @@ Join me and let's discover Kotlin and its beauties!"
   # video: ""
 -
   id: 006
-  title: "Dall'Internet of Things verso l'Internet of Everything: come collegare i dati per produrre nuova conoscenza"
+  title: "Dall'Internet of Things verso l'Internet of Everything: collegare dati per produrre nuova conoscenza"
   description: "L'Internet delle cose negli ultimi anni ha rappresentato il trampolino di lancio per una nuova forma di pensare agli oggetti e alle connessioni tra e con essi. Nella precedente DevFest sono stati presentati una serie di strumenti che permettono la prototipazione rapida attraverso kit di sviluppo per maker ('L'ecosistema Google a supporto dei progetti IoT: dalla prototipazione ai dati in Cloud', https://www.slideshare.net/AngeloParchitelli/lecosistema-google-a-supporto-dei-progetti-iot-dalla-prototipazione-ai-dati-in-cloud).
 Il talk fornirà, attraverso una serie di esempi applicativi, le nozioni utili al controllo del flusso dati proveniente da dispositivi IoT dislocati in postazioni diverse, visualizzazione dei dati e nozioni sui processi decisionali 'autonomi' basati su regole per eventuali processi di attuazione."
   # subtype: keynote
@@ -127,9 +127,9 @@ Il corso è discorsivo e prevede interazione con gli utenti."
 -
   id: 013
   title: "Test and automate Android Development with CI's magic"
-  description: "Specialmente quando lavorano con applicazioni complesse, gli sviluppatori hanno bisogno di un modo di testare i nuovi cambiamenti, ogni volta che scrivono nuovo codice per minimizzare gli errori in produzione.
-  La Continuous Integration può risolvere questo problema e inoltre aiutare gli sviluppatori in altri compiti noiosi come aggiornare le traduzioni e gli assets all'interno delle loro app.
-   In questo talk vedremo come usare i tools CI come Travis e altri framework di test come Espresso, che si integrano perfettamente con GitHub e che permettono di automatizzare il testing del codice, verificarne la qualità, gestire le traduzioni e molti altri aspetti dello sviluppo Android.
+  description: "Specialmente quando lavorano con applicazioni complesse, gli sviluppatori hanno bisogno di un modo per testare i nuovi cambiamenti e minimizzare gli errori in produzione.
+  La Continuous Integration può risolvere questo problema e assistere anche in altri compiti noiosi come aggiornare la Localizzazione e gli assets delle app stesse.
+   In questo talk vedremo come usare tool CI come Travis e altri framework di test come Espresso, che si integrano perfettamente con GitHub e che permettono di automatizzare il testing del codice, verificarne la qualità, gestire le traduzioni e molti altri aspetti dello sviluppo Android.
    Venite a vedere con i vostri occhi la magia della Continuous Integration! ;)"
   # subtype: keynote
   speakers: [12]
@@ -176,9 +176,10 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   # video: ""
 -
   id: 018
-  title: "Alfredo Morrisi"
-  description: ""
+  title: "Esplorando Google Assistant e Google Home"
+  description: "Come funziona Google Assistant? Come costruire e aggiungere nuove funzionalità? In questo talk vedremo come interagire con Assistant su Google Home e altri dispositivi, come aggiungere custom Actions e come capire cosa gli utenti dicono e rispondergli utilizzando il servizio API.ai."
   # subtype: keynote
+  speakers: [16]
   language: it
   complexity: "Intermediate"
   #presentation: ""

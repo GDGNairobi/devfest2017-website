@@ -1,4 +1,14 @@
 -
+  id: 16
+  name: "Alfredo"
+  surname: "Morresi"
+  company: "Google"
+  title: "Developer Relations"
+  bio: "I'm a software engineering student by day, and a painter by night. I try to mix art and algorithms in an attempt to get this two parts of me together.
+I like sharing my knowledge, and finding all sorts of ways to get people interested. For this purpose, I taught coding courses to children, organized workshops, and keep up a strong passion in open source software. I also like parrots."
+  thumbnailUrl: alfredo-morresi.jpg
+  rockstar: true
+-
   id: 0
   name: "Mike"
   surname: "Trizio"
@@ -19,11 +29,21 @@
   #title: ""
   bio: "Mi occupo di coordinamento e sviluppo di applicazioni web, mobile e gaming. Sono stato docente di alcuni corsi orientati allo sviluppo di videogiochi e di applicazioni mobile, speaker di diversi talk, membro attivo di una comunità di informatici, il Club degli Sviluppatori, che organizza mensilmente incontri allo scopo di promuovere la condivisione della conoscenza.
 Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack developer(Laravel, React, Fuse, ecc.) e nel settore storytelling  per Swipe Story SRL come Unity Developer."
-  thumbnailUrl: giuseppe-toto.JPG
+  thumbnailUrl: giuseppe-toto.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/giuseppe-toto-83888b33/?ppe=1"}
     - {name: "facebook", link: "https://www.facebook.com/giuseppe.toto007"}
+-
+  id: 15
+  name: "Sara"
+  surname: "Di Bartolomeo"
+  #company: "Spindox"
+  #title: "Developer Relations Program Manager"
+  bio: "I'm a software engineering student by day, and a painter by night. I try to mix art and algorithms in an attempt to get this two parts of me together.
+I like sharing my knowledge, and finding all sorts of ways to get people interested. For this purpose, I taught coding courses to children, organized workshops, and keep up a strong passion in open source software. I also like parrots."
+  thumbnailUrl: sara-di-bartolomeo.jpg
+  rockstar: true
 -
   id: 2
   name: "Boris"
@@ -60,9 +80,43 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   thumbnailUrl: domenico-colucci.png
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://it.linkedin.com/in/francescomarchitelli"}
-    - {name: "twitter", link: "https://twitter.com/marcyborg"}
-    - {name: "facebook", link: "https://it-it.facebook.com/public/francesco.marchitelli"}
+    - {name: "linkedin", link: "https://www.linkedin.com/company/nextome"}
+    - {name: "twitter", link: "https://www.twitter.com/nextome"}
+    - {name: "facebook", link: "https://www.facebook.com/nextomeapp/"}
+-
+  id: 12
+  name: "Paolo"
+  surname: "Rotolo"
+  company: "Nextome"
+  #title: "Developer Relations Program Manager"
+  bio: "Android Developer, Studente di ingegneria informatica con una passione per l'Open Source.
+  A luglio 2013 ha ottenuto la membership Ubuntu e fondato Numix, un progetto (poi divenuto una vera e propria LTD) con l'obiettivo di migliorare il design delle distribuzioni Linux e Android.
+  A partire da giugno 2015, ha co-fondando e Glucosio, divenuta poco tempo dopo una Fondazione con l'obiettivo di aiutare i diabetici nel mondo con l'open source.
+    Attualmente lavora per Nextome, un'azienda che fornisce un servizio di navigazione e posizionamento indoor sfruttando Beacons Bluetooth."
+  thumbnailUrl: paolo-rotolo.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paolorotolo/"}
+    - {name: "twitter", link: "https://twitter.com/PaoloRotolo"}
+    - {name: "facebook", link: "https://www.facebook.com/rotolopao"}
+    - {name: "github", link: "https://github.com/paolorotolo"}
+-
+  id: 9
+  name: "Vincenzo"
+  surname: "Dentamaro"
+  company: "Nextome"
+  #title: "Developer Relations Program Manager"
+  bio: "CEO & CTO di Nextome. Esperto di Localizzazione Indoor, Machine Learning, Intelligenza Artificiale per la robotica.
+  Laureato Università di Bari, Master Georgia Institute of Technology, Atlanta GA, USA
+  Precedentemente ha lavorato per
+  IBM Italy
+  Johnson Controls (JCI) USA"
+  thumbnailUrl: vincenzo-dentamaro.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/vincenzodentamaro/"}
+    - {name: "twitter", link: "https://twitter.com/vincenzoden"}
+    - {name: "facebook", link: "https://www.facebook.com/vincenzo.dentamaro"}
 -
   id: 5
   name: "Angelo"
@@ -116,23 +170,6 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
     - {name: "twitter", link: "https://twitter.com/pyRabbaglietti"}
     - {name: "facebook", link: "https://www.facebook.com/andrea.fishbone"}
 -
-  id: 9
-  name: "Vincenzo"
-  surname: "Dentamaro"
-  company: "Nextome"
-  #title: "Developer Relations Program Manager"
-  bio: "CEO & CTO di Nextome. Esperto di Localizzazione Indoor, Machine Learning, Intelligenza Artificiale per la robotica.
-  Laureato Università di Bari, Master Georgia Institute of Technology, Atlanta GA, USA
-  Precedentemente ha lavorato per
-  IBM Italy
-  Johnson Controls (JCI) USA"
-  thumbnailUrl: vincenzo-dentamaro.png
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/vincenzodentamaro/"}
-    - {name: "twitter", link: "https://twitter.com/vincenzoden"}
-    - {name: "facebook", link: "https://www.facebook.com/vincenzo.dentamaro"}
--
   id: 10
   name: "Valerio"
   surname: "Como"
@@ -159,23 +196,6 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
     - {name: "twitter", link: "https://twitter.com/lopsandrea"}
     - {name: "facebook", link: "https://facebook.com/lopsandrea"}
 -
-  id: 12
-  name: "Paolo"
-  surname: "Rotolo"
-  company: "Nextome"
-  #title: "Developer Relations Program Manager"
-  bio: "Android Developer, Studente di ingegneria informatica con una passione per l'Open Source.
-  A luglio 2013 ha ottenuto la membership Ubuntu e fondato Numix, un progetto (poi divenuto una vera e propria LTD) con l'obiettivo di migliorare il design delle distribuzioni Linux e Android.
-  A partire da giugno 2015, ha co-fondando e Glucosio, divenuta poco tempo dopo una Fondazione con l'obiettivo di aiutare i diabetici nel mondo con l'open source.
-    Attualmente lavora per Nextome, un'azienda che fornisce un servizio di navigazione e posizionamento indoor sfruttando Beacons Bluetooth."
-  thumbnailUrl: paolo-rotolo.jpeg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/paolorotolo/"}
-    - {name: "twitter", link: "https://twitter.com/PaoloRotolo"}
-    - {name: "facebook", link: "https://www.facebook.com/rotolopao"}
-    - {name: "github", link: "https://github.com/paolorotolo"}
--
   id: 13
   name: "Michel"
   surname: "Murabito"
@@ -200,13 +220,3 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/giuseppesantoroapuliasoft/"}
     - {name: "facebook", link: "https://www.facebook.com/giuseppesantoroitalia"}
--
-  id: 15
-  name: "Sara"
-  surname: "Di Bartolomeo"
-  #company: "Spindox"
-  #title: "Developer Relations Program Manager"
-  bio: "I'm a software engineering student by day, and a painter by night. I try to mix art and algorithms in an attempt to get this two parts of me together.
-I like sharing my knowledge, and finding all sorts of ways to get people interested. For this purpose, I taught coding courses to children, organized workshops, and keep up a strong passion in open source software. I also like parrots."
-  thumbnailUrl: sara-di-bartolomeo.jpg
-  rockstar: true
