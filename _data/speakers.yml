@@ -49,7 +49,7 @@ Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack develo
   social:
     - {name: "linkedin", link: "https://it.linkedin.com/in/francescomarchitelli"}
     - {name: "twitter", link: "https://twitter.com/marcyborg"}
-    - {name: "facebook", link: "https://it-it.facebook.com/public/francesco.marchitelli"}
+    - {name: "github", link: "https://github.com/marcyborg"}
 -
   id: 4
   name: "Domenico"
@@ -174,6 +174,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
     - {name: "linkedin", link: "https://www.linkedin.com/in/paolorotolo/"}
     - {name: "twitter", link: "https://twitter.com/PaoloRotolo"}
     - {name: "facebook", link: "https://www.facebook.com/rotolopao"}
+    - {name: "github", link: "https://github.com/paolorotolo"}
 -
   id: 13
   name: "Michel"
@@ -191,7 +192,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   id: 14
   name: "Giuseppe"
   surname: "Santoro"
-  company: "Spindox"
+  company: "ApuliaSoft"
   #title: "Developer Relations Program Manager"
   bio: "Giuseppe è un imprenditore pugliese con un amore incondizionato per la tecnologia. Fin da piccolo giocava a scrivere codice e nel 2006 ha avuto l'occasione di entrare nella squadra italiana delle 'International Olympiad in Informatics'. Da quel momento in poi non ha più lasciato il mondo del software: prima gli studi, poi freelancer ed oggi imprenditore. Appassionato di ottimizzazione, web e compilatori. Non si lascia sfuggire le occasioni di cucinare il pranzo per il suo team."
   thumbnailUrl: giuseppe-santoro.jpg
