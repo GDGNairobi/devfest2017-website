@@ -3,33 +3,43 @@
   dateReadable: "Mattina"
   timeslots:
     - {
-    	startTime: "9:00",
-    	endTime: "10:00",
+    	startTime: "8:40",
+    	endTime: "9:10",
+    	sessionIds: [021]
+    }
+    - {
+    	startTime: "9:10",
+    	endTime: "9:40",
+    	sessionIds: [022]
+    }
+    - {
+    	startTime: "9:40",
+    	endTime: "10:20",
     	sessionIds: [018]
     }
     - {
-        startTime: "10:00",
+        startTime: "10:20",
         endTime: "11:00",
         sessionIds: [019]
     }
     - {
     	startTime: "11:00",
-    	endTime: "11:45",
+    	endTime: "11:40",
     	sessionIds: [020]
     }
     - {
-    	startTime: "11:45",
+    	startTime: "11:40",
     	endTime: "12:00",
     	sessionIds: [016]
     }
     - {
     	startTime: "12:00",
-    	endTime: "13:00",
+    	endTime: "12:50",
     	sessionIds: [014, 005]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "14:45",
+    	startTime: "12:50",
+    	endTime: "13:40",
     	sessionIds: [007, 008]
     }
 -
@@ -41,27 +51,27 @@
     - {title: "IoT & BigData", color: "#e91e63"}
   timeslots:
     - {
-    	startTime: "14:00",
-    	endTime: "15:00",
+    	startTime: "15:00",
+    	endTime: "15:40",
     	sessionIds: [003, 015, 012]
     }
     - {
-    	startTime: "15:00",
-    	endTime: "15:45",
+    	startTime: "15:50",
+    	endTime: "16:30",
     	sessionIds: [001, 009, 010]
     }
     - {
-        startTime: "15:45",
-        endTime: "16:00",
+        startTime: "16:30",
+        endTime: "16:50",
         sessionIds: [016]
     }
     - {
-        startTime: "16:00",
-        endTime: "17:00",
+        startTime: "16:50",
+        endTime: "17:30",
         sessionIds: [013, 011, 017]
     }
     - {
-    	startTime: "17:00",
-    	endTime: "18:00",
+    	startTime: "17:40",
+    	endTime: "18:20",
     	sessionIds: [002, 004, 006]
     }

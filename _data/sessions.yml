@@ -185,8 +185,9 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   # video: ""
 -
   id: 019
-  title: "Sara di Bartoloomeo"
-  description: ""
+  title: "You Turing Complete Me"
+  speakers: [15]
+  description: "La turing-completezza è l'insieme di caratteristiche che fa sì che un linguaggio possa essere utilizzato per costruire delle macchine di turing, ovvero, per scrivere programmi o definire altri linguaggi di programmazione. Tali proprietà sono, incredibilmente, talmente semplici ed elementari che spesso si possono trovare in luoghi insospettabili: da Minecraft fino a Pokémon, esploreremo come in molti videogiochi si abbiano, per volere degli sviluppatori o addirittura accidentalmente, i presupposti per utilizzare gli elementi interni al gioco per scrivere programmi."
   # subtype: keynote
   language: it
   complexity: "Intermediate"
@@ -198,6 +199,21 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   description: ""
   # subtype: keynote
   language: it
-  complexity: "Intermediate"
+  #presentation: ""
+  # video: ""
+-
+  id: 021
+  title: "Check In"
+  description: ""
+  # subtype: keynote
+  language: it
+  #presentation: ""
+  # video: ""
+-
+  id: 022
+  title: "Welcome e keynote"
+  description: ""
+  # subtype: keynote
+  language: it
   #presentation: ""
   # video: ""
