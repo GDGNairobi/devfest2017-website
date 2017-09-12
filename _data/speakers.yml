@@ -61,7 +61,7 @@ I like sharing my knowledge, and finding all sorts of ways to get people interes
   id: 3
   name: "Francesco"
   surname: "Marchitelli"
-  #company: "Google Poland"
+  company: "GDG Bari"
   #title: "Developer Relations Program Manager"
   bio: "Ingegnere Informatico, con background accademico presso il Politecnico di Bari. Lavoro come Sviluppatore Software in ambito IT. Faccio parte del GDG dal 2015, dove alle devfest precedenti ho tenuto nel 2015 un talk sulla GCP, in particolare su come creare una Java Application con GAE, e nel 2016 su come usare la GCP per elaborare il Linguaggio Naturale. Sono appassionato di tecnologie Google, dello stack tecnologico del Semantic Web e dei Linked Open Data, di BigData e AI. Seguo con interesse tutte le innovazioni tecnologiche e sociali, anche quelle legate al mondo Start Up."
   thumbnailUrl: francesco-marchitelli.jpg
@@ -121,7 +121,7 @@ I like sharing my knowledge, and finding all sorts of ways to get people interes
   id: 5
   name: "Angelo"
   surname: "Parchitelli"
-  #company: "Google Poland"
+  company: "GDG Bari"
   #title: "Developer Relations Program Manager"
   bio: "Studente magistrale in Ingegneria Informatica presso il Politecnico di Bari.
 Collaboro a progetti di ricerca riguardanti Semantic Web e tematiche legate all'ingegneria del software applicata all'Internet delle Cose.
@@ -150,7 +150,7 @@ Sono appassionato di tecnologia, innovazione e ricerca in ambito di sicurezza in
   id: 17
   name: "Dora"
   surname: "Ruggiero"
-  company: "ApuliaSoft"
+  company: ""
   #title: "Developer Relations Program Manager"
   bio: "Da piccola mi dedicavo al #Coding con un Commodore 64 e alla vita di campagna.
 Oggi, poco è cambiato: #Freelance amante dell'escursionismo e dello #slow-travel.
@@ -198,7 +198,7 @@ Ama profondamente i sistemi distribuiti, la cache server-side, Redis e tecniche 
   id: 11
   name: "Andrea"
   surname: "Lops"
-  #company: "Google Poland"
+  company: "GDG Bari"
   #title: "Developer Relations Program Manager"
   bio: "Nato a Canosa nel 1997, frequento il primo anno di Ingegneria informatica e dell'automazione al Politecnico di Bari. Sono membro del GDG Bari, grande appassionato di Linux e di tutte le sue applicazioni dalle lavatrici smart ai server per le AI."
   thumbnailUrl: andrea-lops.jpg
