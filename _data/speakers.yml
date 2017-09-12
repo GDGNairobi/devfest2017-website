@@ -147,6 +147,18 @@ Sono appassionato di tecnologia, innovazione e ricerca in ambito di sicurezza in
     - {name: "twitter", link: "https://twitter.com/FrancescoKujaku"}
     - {name: "facebook", link: "https://www.facebook.com/francesco.l.pavone"}
 -
+  id: 17
+  name: "Dora"
+  surname: "Ruggiero"
+  company: "ApuliaSoft"
+  #title: "Developer Relations Program Manager"
+  bio: "Da piccola mi dedicavo al #Coding con un Commodore 64 e alla vita di campagna.
+Oggi, poco è cambiato: #Freelance amante dell'escursionismo e dello #slow-travel.
+Esco da dieci anni di esperienza presso aziende medio-piccole, con un profilo fullstack.
+Il mio lavoro consiste nell'aiutare gli uffici e le persone a riorganizzare la propria azienda in una prospettiva di automazione e di marketing."
+  thumbnailUrl: dora-ruggiero.jpg
+  rockstar: true
+-
   id: 7
   name: "Angelo"
   surname: "Mariano"

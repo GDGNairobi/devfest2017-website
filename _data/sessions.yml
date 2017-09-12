@@ -166,15 +166,6 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   #presentation: ""
   # video: ""
 -
-  id: 017
-  title: "Dora Ruggero"
-  description: ""
-  # subtype: keynote
-  language: it
-  complexity: "Intermediate"
-  #presentation: ""
-  # video: ""
--
   id: 018
   title: "Esplorando Google Assistant e Google Home"
   description: "Come funziona Google Assistant? Come costruire e aggiungere nuove funzionalità? In questo talk vedremo come interagire con Assistant su Google Home e altri dispositivi, come aggiungere custom Actions e come capire cosa gli utenti dicono e rispondergli utilizzando il servizio API.ai."
@@ -222,6 +213,15 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   id: 023
   title: "Saluti finali"
   description: ""
+  # subtype: keynote
+  language: it
+  #presentation: ""
+  # video: ""
+-
+  id: 017
+  title: "Google AdWords Base"
+  description: "Google AdWords è una piattaforma online di Google che permette di pubblicare annunci a pagamento accanto ai risultati della ricerca."
+  speakers: [17]
   # subtype: keynote
   language: it
   #presentation: ""
