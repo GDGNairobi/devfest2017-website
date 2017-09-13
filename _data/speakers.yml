@@ -122,10 +122,8 @@ I like sharing my knowledge, and finding all sorts of ways to get people interes
   surname: "Parchitelli"
   company: "GDG Bari"
   #title: "Developer Relations Program Manager"
-  bio: "Studente magistrale in Ingegneria Informatica presso il Politecnico di Bari.
-Collaboro a progetti di ricerca riguardanti Semantic Web e tematiche legate all'ingegneria del software applicata all'Internet delle Cose.
-Lavoro come Ingegnere del Software presso una azienda che si occupa di R&D in ambito industriale.
-Sono appassionato di tecnologia, innovazione e ricerca in ambito di sicurezza informatica, open data, intelligenza artificiale e prototipazione IoT."
+  bio: "L'Internet delle Cose negli ultimi anni ha rappresentato il trampolino di lancio per nuove forme di pensiero verso oggetti e connessioni, tra e con essi. Nella precedente DevFest sono stati presentati una serie di strumenti che permettono la prototipazione rapida attraverso kit di sviluppo per makers ('L'ecosistema Google a supporto dei progetti IoT: dalla prototipazione ai dati in Cloud', https://www.slideshare.net/AngeloParchitelli/lecosistema-google-a-supporto-dei-progetti-iot-dalla-prototipazione-ai-dati-in-cloud).
+Il talk fornirà, attraverso una serie di esempi applicativi, le nozioni utili al controllo del flusso dati proveniente da dispositivi IoT dislocati in postazioni diverse, visualizzazione dati e nozioni utili ai processi decisionali 'autonomi', basati su regole, utili allo svolgimento di azioni."
   thumbnailUrl: angelo-parchitelli.jpg
   rockstar: true
   social:
@@ -160,6 +158,7 @@ Il mio lavoro consiste nell'aiutare gli uffici e le persone a riorganizzare la p
 -
   id: 7
   name: "Angelo"
+  company: "ENEA"
   surname: "Mariano"
   #title: "Developer Relations Program Manager"
   bio: "Dottore di ricerca in fisica teorica, attualmente ricercatore ICT in ENEA, con competenze nel campo delle progettazione informatica, dell'integrazione tra i sistemi ICT, dell'elearning e della formazione blended, del calcolo scientifico ad alte prestazioni, del cloud computing. Referente per il centro di calcolo HPC del centro di ricerche di Brindisi. Attualmente si occupa di informatica gestionale, gestione dei processi e dei dati aziendali e lavoro collaborativo. Appassionato di nuove tecnologie, costantemente alla ricerca di risposte semplici a problemi complessi."

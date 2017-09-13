@@ -136,7 +136,7 @@ subscribeInfo: "Seguici su Facebook per più informationi sull'evento!"
 
 # Tickets Block
 ticketsTitle: "Biglietti"
-ticketsInfo: "Coming soon..."
+ticketsInfo: ""
 #ticketsOffers:
 # -
 #  name: "Early Bird"
