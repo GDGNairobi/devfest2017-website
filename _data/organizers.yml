@@ -10,3 +10,4 @@
     - {name: "auLAB", description: "auLAB", link: "http://www.aulab.it/", imageUrl: "aulab.jpg"}
     - {name: "Alumni Mathematica", description: "Alumni Mathematica", link: "http://alumnimathematica.org/", imageUrl: "alumni.jpg"}
     - {name: "Club degli Sviluppatori", description: "Club degli Sviluppatori", link: "https://www.facebook.com/groups/cdspuglia/", imageUrl: "club.png"}
+    - {name: "Studenti Democratici", description: "Studenti Democratici", link: "http://www.studentidemocratici.it/", imageUrl: "sd.jpg"}
