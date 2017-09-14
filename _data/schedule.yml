@@ -1,6 +1,6 @@
 -
   date: "2017-10-06"
-  dateReadable: "Mattina"
+  dateReadable: "6 Ottobre - Mattina"
   timeslots:
     - {
     	startTime: "8:40",
@@ -42,23 +42,20 @@
     	endTime: "13:40",
     	sessionIds: [007, 008]
     }
--
-  date: "2017-10-06"
-  dateReadable: "Pomeriggio"
-  tracks:
-    - {title: "Mobile", color: "#90be4e"}
-    - {title: "Web", color: "#03a9f4"}
-    - {title: "IoT & BigData", color: "#e91e63"}
-  timeslots:
     - {
-    	startTime: "15:00",
-    	endTime: "15:40",
-    	sessionIds: [003, 015, 012]
+      startTime: "13:40",
+      endTime: "15:00",
+      sessionIds: [024]
     }
     - {
-    	startTime: "15:50",
-    	endTime: "16:30",
-    	sessionIds: [001, 009, 010]
+      startTime: "15:00",
+      endTime: "15:40",
+      sessionIds: [003, 015, 012]
+    }
+    - {
+      startTime: "15:50",
+      endTime: "16:30",
+      sessionIds: [001, 009, 010]
     }
     - {
         startTime: "16:30",
@@ -71,12 +68,21 @@
         sessionIds: [013, 011, 017]
     }
     - {
-    	startTime: "17:40",
-    	endTime: "18:20",
-    	sessionIds: [002, 004, 006]
+      startTime: "17:40",
+      endTime: "18:20",
+      sessionIds: [002, 004, 006]
     }
     - {
-    	startTime: "18:30",
-    	endTime: "18:45",
-    	sessionIds: [023]
+      startTime: "18:30",
+      endTime: "18:45",
+      sessionIds: [023]
+    }
+-
+  date: "2017-10-07"
+  dateReadable: "7-8 Ottobre"
+  timeslots:
+    - {
+      startTime: "ALL",
+      endTime: "DAY",
+      sessionIds: [025]
     }

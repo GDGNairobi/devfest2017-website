@@ -226,3 +226,27 @@ Il corso è discorsivo e prevede interazione con gli utenti."
   language: it
   #presentation: ""
   # video: ""
+-
+  id: 024
+  title: "Pausa pranzo"
+  description: ""
+  # subtype: keynote
+  language: it
+  #presentation: ""
+  # video: ""
+-
+  id: 025
+  title: "Hackathon - hack.developers"
+  description: "Hack.Developers, promosso dal Team per la Trasformazione Digitale in collaborazione con Codemotion, sarà il più grande code sprint mai realizzato in Italia!
+
+Nel week-end del 7 e 8 ottobre 2017 tutte le tech community italiane e gli sviluppatori potranno partecipare alla maratona di programmazione, organizzata in contemporanea in oltre 20 città su tutto il territorio nazionale.
+
+L’obiettivo dell’hackathon è rispondere alle necessità sempre più impellente del nostro Paese di rendere i servizi pubblici a misura di cittadino, perciò più accessibili, più semplici e più efficaci.
+
+Sviluppatori software, esperti IT e studenti potranno dare un grande mettendo a disposizione il loro talento e le loro conoscenze. Ciò che verrà realizzato aiuterà la PA ad integrare in modo più efficiente le tecnologie necessarie alla digitalizzazione dell’Italia.
+
+I partecipanti svilupperanno codice open source per realizzare funzionalità per accrescere i progetti centrali per la PA, ospitati nella piattaforma Developers.Italia.it, la community open source lanciata a Marzo proprio dal Team Digitale."
+  # subtype: keynote
+  language: it
+  presentation: "https://hack.developers.italia.it/"
+  # video: ""

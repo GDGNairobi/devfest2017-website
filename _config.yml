@@ -48,12 +48,15 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistica"}
+ - {permalink: "/#tickets", text: "Biglietti"}
  # TODO: Add Hackathon
- - {permalink: "https://hack.developers.italia.it/", text: "Hackathon"}
+ - {link: "https://hack.developers.italia.it/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
+ - {link: "https://www.eventbrite.it/e/biglietti-devfest-bari-2017-37804774097", text: "Prendi il tuo biglietto"}
 rightNavigationButtons:
  - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
+ - {link: "https://www.eventbrite.it/e/biglietti-devfest-bari-2017-37804774097", text: "Prendi il tuo biglietto"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,9 +66,8 @@ typeoutTextValues: '"", "Bari", "Season"'
 typeoutFallback: "Bari"
 heroButtons:
  - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
+ - {permalink: "/#tickets", text: "Prendi il tuo biglietto"}
  - {link: "https://www.facebook.com/GDGBari/", text: "Seguici su Facebook"}
- # TODO: ADD AFTER CALL FOR PAPER
- # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "Cos'è la DevFest?"
