@@ -52,10 +52,8 @@ navigationLinks:
  # TODO: Add Hackathon
  - {link: "https://hack.developers.italia.it/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
  - {link: "https://www.eventbrite.it/e/biglietti-devfest-bari-2017-37804774097", text: "Prendi il tuo biglietto"}
 rightNavigationButtons:
- - {link: "http://gdgbari.org/schedule/", text: "Guarda il programma"}
  - {link: "https://www.eventbrite.it/e/biglietti-devfest-bari-2017-37804774097", text: "Prendi il tuo biglietto"}
 
 # Hero Block
@@ -92,7 +90,7 @@ latestNewsTitle: "Ultime news"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Scopri tutti gli speakers"
 
 # Location Block
 locationBlockTitle: "Location"
