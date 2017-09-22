@@ -21,10 +21,11 @@
 -
   id: 003
   title: "Kotlin for Android Development"
-  description: "For the first time in Android's history, Google introduced a new official language to the Android development ecosystem: Kotlin. It was the most acclaimed announcement at the Google I/O 2017 (I was there!).
-Created in 2011 by JetBrains, Kotlin gained more popularity year over year thanks to it being 100% interoperable with the JVM.
-Many 'bleeding-edge' Android developers already started using Kotlin in production but now that it's officially supported, Kotlin is popularity is sky-rocketing bringing fresh air to the Android ecosystem.
-Join me and let's discover Kotlin and its beauties!"
+  description: "Per la prima volta nella storia di Android, Google ha introdotto un nuovo linguaggio di programmazione ufficiale per l'ecosistema di sviluppo Android: Kotlin.
+E' sicuramente stato l'annuncio più acclamato al Google I/O 2017 (ve lo assicuro, ero lì!).
+Creato nel 2011 da Jetbrains (l'azienda dietro il popolare IDE Java InteliJIDEA), Kotlin ha acquisito sempre più popolarità anno dopo anno grazie alla sua completa interoperabilità con la JVM.
+Molti sviluppatori 'bleeding-edge' hanno già iniziato ad utilizzare Kotlin in produzione ma adesso che è ufficialmente supportato, la popolarità di Kotlin è destinata a decollare portando aria fresca nello sviluppo Android.
+Unisciti a me e scopriamo insieme Kotlin e i suoi vantaggi!"
   # subtype: keynote
   speakers: [2]
   language: it
