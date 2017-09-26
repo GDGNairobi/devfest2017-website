@@ -24,7 +24,7 @@
   id: 1
   name: "Giuseppe"
   surname: "Toto"
-  # company: ""
+  company: "Stentle"
   #title: ""
   bio: "Mi occupo di coordinamento e sviluppo di applicazioni web, mobile e gaming. Sono stato docente di alcuni corsi orientati allo sviluppo di videogiochi e di applicazioni mobile, speaker di diversi talk, membro attivo di una comunità di informatici, il Club degli Sviluppatori, che organizza mensilmente incontri allo scopo di promuovere la condivisione della conoscenza.
 Attualmente lavoro nel settore e-commerce per Stentle SRL  come fullstack developer(Laravel, React, Fuse, ecc.) e nel settore storytelling  per Swipe Story SRL come Unity Developer."
