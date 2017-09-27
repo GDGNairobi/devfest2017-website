@@ -34,8 +34,8 @@ Unisciti a me e scopriamo insieme Kotlin e i suoi vantaggi!"
   # video: ""
 -
   id: 004
-  title: "Continuos Integration con Jenkins e Java EE"
-  description: "In questo talk analizzeremo come usare Jenkins come tool per effettuare Continuos Integration and Continuos Development in un'architettura Java EE, utilizzando Wildfly come Application Server e Maven come gestore delle dipendenze e librerie, sfruttando il wildfly-maven-plugin."
+  title: "Continuous Integration con Jenkins e Java EE"
+  description: "In questo talk analizzeremo come usare Jenkins come tool per effettuare Continuous Integration and Continuous Development in un'architettura Java EE, utilizzando Wildfly come Application Server e Maven come gestore delle dipendenze e librerie, sfruttando il wildfly-maven-plugin."
   # subtype: keynote
   speakers: [3]
   language: it
