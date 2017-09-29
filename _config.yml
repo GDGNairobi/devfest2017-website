@@ -36,9 +36,11 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://goo.gl/forms/FcICiuS8RFz63pJm2"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: ""
+c4sponsorsUrl: ""
 
+# Partners Block
+partnersTitle: "Partners"
 
 # Navigation
 navigationLinks:
